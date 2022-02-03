@@ -1,7 +1,7 @@
 cabal-version: 3.0
 
 name: pro-source
-version: 0
+version: 0.1.0.0
 license: MPL-2.0
 license-file: LICENSE
 author: James Alexander Feldman-Crough
