@@ -1,0 +1,9 @@
+packages: pro-source
+
+contraints:
+    base == 4.15.*
+  , hashable == 1.4.*
+  , optics-core == 0.4.*
+  , prettyprinter == 1.7.0.*
+  , tasty == 1.4.*
+  , vector == 0.12.2.*
