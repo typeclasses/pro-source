@@ -13,7 +13,7 @@ category: Parsing
 synopsis: Utilities for tracking source locations
 description:
     Forked from part of the
-    [prosidy](https://hackage.haskell.org/package/prosidy)
+    <https://hackage.haskell.org/package/prosidy prosidy>
     package.
 
 source-repository head
