@@ -14,6 +14,10 @@ synopsis: Utilities for tracking source locations
 description:
     Forked from part of the [prosidy](https://hackage.haskell.org/package/prosidy) package.
 
+source-repository head
+    type: git
+    location: git://github.com/typeclasses/pro-source.git
+
 common base
     default-language: Haskell2010
     ghc-options: -Wall
